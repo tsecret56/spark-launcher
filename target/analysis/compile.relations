@@ -1,0 +1,54 @@
+products:
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\AbstractCommandBuilder$1.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\AbstractCommandBuilder.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\CommandBuilderUtils.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\Main$UsageCommandBuilder.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\Main.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkClassCommandBuilder.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkLauncher.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder$1.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder$OptionParser.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder.class
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\target\scala-2.10\classes\org\apache\spark\launcher\SparkSubmitOptionParser.class
+binary dependencies:
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar
+source dependencies:
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+external dependencies:
+class names:
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> org.apache.spark.launcher.AbstractCommandBuilder
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> org.apache.spark.launcher.AbstractCommandBuilder$1
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> org.apache.spark.launcher.CommandBuilderUtils
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> org.apache.spark.launcher.Main
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\Main.java -> org.apache.spark.launcher.Main$UsageCommandBuilder
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> org.apache.spark.launcher.SparkClassCommandBuilder
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> org.apache.spark.launcher.SparkLauncher
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$1
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$OptionParser
+   C:\Users\SM\Desktop\spark-1.4.1\spark-1.4.1\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> org.apache.spark.launcher.SparkSubmitOptionParser
